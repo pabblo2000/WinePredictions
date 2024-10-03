@@ -21,6 +21,7 @@ The GradeClassifier project is dedicated to predicting the quality of wines base
 
 - **Models Used**:
   - **Logistic Regression** (Multinomial)
+  - **ElasticNet Regression** (Penalized Regression)
   - **Support Vector Machine (SVM)**
   - **Random Forest**
   - **Gradient Boosting** (Optional depending on performance comparison)
