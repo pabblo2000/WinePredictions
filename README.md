@@ -25,6 +25,7 @@ The GradeClassifier project is dedicated to predicting the quality of wines base
   - **Random Forest**
   - **Gradient Boosting** (Optional depending on performance comparison)
   - **XGBoost** (for performance tuning)
+  - **Neural Network** (2 hidden layers)
 
 - **Evaluation Metrics**:
   - Accuracy
